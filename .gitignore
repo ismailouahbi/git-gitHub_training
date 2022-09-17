@@ -1,0 +1,4 @@
+# ignore all .log files
+*.log
+# except vip.log
+!vip.log
