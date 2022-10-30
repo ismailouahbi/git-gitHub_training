@@ -1,6 +1,0 @@
-# ignore all .log files
-*.log
-# except vip.log
-!vip.log
-# igonre node_modules folder
-node_modules
